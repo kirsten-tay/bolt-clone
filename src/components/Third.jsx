@@ -1,4 +1,5 @@
 import react from 'react';
+import carSvg from './carSvg'
 
 
 const Third=() => {
@@ -27,7 +28,9 @@ const Third=() => {
                 <span>Pick your destination, request a ride, meet your driver, enjoy the journey.</span>
             </div>
               <div className="flex flex-row">
-                  
+              <div className="flex flex-col justify-center  w-screen md:w-1/2 relative w-full">
+                  <carSvg/>
+                  </div>
 
               </div>
           </div>
