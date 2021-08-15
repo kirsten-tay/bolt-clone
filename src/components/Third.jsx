@@ -19,7 +19,7 @@ const Third=() => {
 
             </div>
             <div className="flex flex-col justify-center  w-screen md:w-1/2 relative w-full">
-                <img src={image}/>
+                <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5Mi4wMiA3Mi44NSI+PGRlZnM+PGNsaXBQYXRoIGlkPSJjbGlwLXBhdGgiPjxyZWN0IGNsYXNzPSJjbHMtMSIgeT0iNjcuNzIiIHdpZHRoPSIyOS4yNCIgaGVpZ2h0PSI1LjEzIiByeD0iMS4zOSIvPjwvY2xpcFBhdGg+PGNsaXBQYXRoIGlkPSJjbGlwLXBhdGgtMiI+PHJlY3QgY2xhc3M9ImNscy0xIiB5PSI2Mi41OSIgd2lkdGg9IjI5LjI0IiBoZWlnaHQ9IjUuMTMiIHJ4PSIxLjM5Ii8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImNsaXAtcGF0aC0zIj48cmVjdCBjbGFzcz0iY2xzLTEiIHk9IjU3LjQ2IiB3aWR0aD0iMjkuMjQiIGhlaWdodD0iNS4xMyIgcng9IjEuMzkiLz48L2NsaXBQYXRoPjxzdHlsZT4uY2xzLTF7ZmlsbDpub25lfS5jbHMtN3tmaWxsOiNmY2NmMDd9LmNscy05e2ZpbGw6I2ZhYjMwNn0uY2xzLTEwe2ZpbGw6I2ZjZWU4Zn08L3N0eWxlPjwvZGVmcz48ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iTGF5ZXJfMS0yIiBkYXRhLW5hbWU9IkxheWVyIDEiPjxwYXRoIGQ9Ik0yNy43MSA3Ljc4aDQ5LjA3YTMuMjkgMy4yOSAwIDAxMy4yOSAzLjI5djE0LjM1YTMuMjkgMy4yOSAwIDAxLTMuMjkgMy4yOUgyNy43MVY3Ljc4eiIgdHJhbnNmb3JtPSJyb3RhdGUoLTIxLjE3IDUzLjg4MyAxOC4yMzgpIiBmaWxsPSIjMzRjZjg0Ii8+PHBhdGggZD0iTTI4LjY2IDEyLjE3aDUyLjQ3YTMuNCAzLjQgMCAwMTMuNCAzLjRWMjkuN2EzLjQgMy40IDAgMDEtMy40IDMuNEgyOC42NlYxMi4xN3oiIHRyYW5zZm9ybT0ibWF0cml4KC45OSAtLjE3IC4xNyAuOTkgLTMuMDIgOS45NSkiIGZpbGw9IiMzYmU5OTQiLz48cmVjdCB4PSIyMS40NSIgeT0iMTYuNzQiIHdpZHRoPSI2Ny43OCIgaGVpZ2h0PSI1Ni4xMSIgcng9IjQuNjUiIGZpbGw9IiNlN2U4ZWMiLz48cmVjdCB4PSI3MC44NCIgeT0iMzQuODciIHdpZHRoPSIyMS4xOSIgaGVpZ2h0PSIxOS44NiIgcng9IjMuNTkiIGZpbGw9IiNkMWQyZGEiLz48Y2lyY2xlIGN4PSI4MS40MyIgY3k9IjQ0LjgiIHI9IjQuNDgiIGZpbGw9IiNhN2E5YjciLz48cmVjdCBjbGFzcz0iY2xzLTciIHk9IjY3LjcyIiB3aWR0aD0iMjkuMjQiIGhlaWdodD0iNS4xMyIgcng9IjEuMzkiLz48ZyBjbGlwLXBhdGg9InVybCgjY2xpcC1wYXRoKSI+PHBhdGggY2xhc3M9ImNscy05IiBkPSJNMCA3MS4zOGgyOS40OHYxLjQ3SDB6Ii8+PC9nPjxwYXRoIGNsYXNzPSJjbHMtMTAiIGQ9Ik0zLjYxIDY3LjcyaDQuMTZ2My42NkgzLjYxeiIvPjxyZWN0IGNsYXNzPSJjbHMtNyIgeT0iNjIuNTkiIHdpZHRoPSIyOS4yNCIgaGVpZ2h0PSI1LjEzIiByeD0iMS4zOSIvPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwLXBhdGgtMikiPjxwYXRoIGNsYXNzPSJjbHMtOSIgZD0iTTAgNjYuMjVoMjkuNDh2MS40N0gweiIvPjwvZz48cGF0aCBjbGFzcz0iY2xzLTEwIiBkPSJNMy42MSA2Mi41OWg0LjE2djMuNjZIMy42MXoiLz48cmVjdCBjbGFzcz0iY2xzLTciIHk9IjU3LjQ2IiB3aWR0aD0iMjkuMjQiIGhlaWdodD0iNS4xMyIgcng9IjEuMzkiLz48ZyBjbGlwLXBhdGg9InVybCgjY2xpcC1wYXRoLTMpIj48cGF0aCBjbGFzcz0iY2xzLTkiIGQ9Ik0wIDYxLjEyaDI5LjQ4djEuNDdIMHoiLz48L2c+PHBhdGggY2xhc3M9ImNscy0xMCIgZD0iTTMuNjEgNTcuNDZoNC4xNnYzLjY2SDMuNjF6Ii8+PGNpcmNsZSBjbGFzcz0iY2xzLTkiIGN4PSIyNy42MSIgY3k9IjU4LjIzIiByPSIxNC42MiIvPjxjaXJjbGUgY2xhc3M9ImNscy0xMCIgY3g9IjI3LjYxIiBjeT0iNTguMjMiIHI9IjEyLjIiLz48Y2lyY2xlIGNsYXNzPSJjbHMtNyIgY3g9IjI3LjYxIiBjeT0iNTguMjMiIHI9IjguODIiLz48L2c+PC9nPjwvc3ZnPg=="/>
 
             </div>
 
@@ -27,12 +27,7 @@ const Third=() => {
                 <h1>Get a ride in minutes!</h1>
                 <span>Pick your destination, request a ride, meet your driver, enjoy the journey.</span>
             </div>
-              <div className="flex flex-row">
-              <div className="flex flex-col justify-center  w-screen md:w-1/2 relative w-full">
-                  <carSvg/>
-                  </div>
-
-              </div>
+             
           </div>
           
         
