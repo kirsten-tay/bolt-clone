@@ -37,6 +37,6 @@ const Third=() => {
     )
 
 }
-export default Hero;
+export default Third;
  
 
