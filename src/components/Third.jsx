@@ -24,12 +24,6 @@ const Third=() => {
               <span>Get wherever you need to go as quickly as possible.</span>
             </div>
             </div>
-    
-            <div className=" flex-row   bg-lightgreen-600">
-                <h1>Get a ride in minutes!</h1>
-                <span>Pick your destination, request a ride, meet your driver, enjoy the journey.</span>
-            </div>
-            </div>
              
           
           
