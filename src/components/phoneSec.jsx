@@ -9,7 +9,7 @@ const phoneSec=() => {
                 <span>Pick your destination, request a ride, meet your driver, enjoy the journey.</span>
             </div>
 <div className="flex flex-col">
-    
+    <img src="https://bolt.eu/img/index-phone.png"/>
 </div>
 
             </div>
