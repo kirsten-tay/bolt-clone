@@ -1,6 +1,7 @@
 import react from'react';
 import carSvg from './carSvg'
 import HeartSvg from './HeartSvg'
+import CallSvg from './CallSvg'
 
 const Next=() =>{
     return(

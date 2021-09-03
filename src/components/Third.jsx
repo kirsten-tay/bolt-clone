@@ -24,7 +24,7 @@ const Third=() => {
               <span>Get wherever you need to go as quickly as possible.</span>
             </div>
             </div>
-             
+             </div>
           
           
         
