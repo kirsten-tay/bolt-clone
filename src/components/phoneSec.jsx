@@ -1,24 +1,21 @@
-import react from 'react'
+import react from'react'
+
 
 
 const phoneSec=() => {
-    return(
-<div className=" flex-row   bg-lightgreen-600">
-    <div className="flex flex-col">
-                <h1>Get a ride in minutes!</h1>
-                <span>Pick your destination, request a ride, meet your driver, enjoy the journey.</span>
+    return (
+         <div className="flex flex-row bg-blue-600">
+             <div class=" text-md-left">
+                 <h3>Earn extra money driving</h3>
+             <p class="mt-8">Set your own schedule, be your own boss.</p></div>
+            <div className="bg-circle bg-circle-left hide show-sm">
             </div>
-<div className="flex flex-col">
-    <img src="https://bolt.eu/img/index-phone.png"/>
-</div>
-
-            </div>
-
-
-
+         </div>
 
 
     )
+
+
 }
 
 
