@@ -4,11 +4,16 @@ import react from'react'
 
 const phoneSec=() => {
     return (
-         <div className="flex flex-row bg-blue-600">
-             <div class=" text-md-left">
-                 <h3>Earn extra money driving</h3>
-             <p class="mt-8">Set your own schedule, be your own boss.</p></div>
-            <div className="bg-circle bg-circle-left hide show-sm">
+         <div className="flex flex-row bg-green-600">
+             <div className="flex-col">
+                 <div class=" text-md-left">
+                 <h3>Get a ride in minutes!</h3>
+             <p class="mt-8">Pick your destination, request a ride, meet your driver, enjoy the journey.</p>
+             </div>
+             </div>
+             
+            <div className="relative-full">
+                <img src="https://bolt.eu/img/index-phone.png"/>
             </div>
          </div>
 
