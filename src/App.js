@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Sec from './components/Sec'
 import Third from './components/Third'
-import phoneSec from './components/phoneSec'
+import PhoneSec from './components/PhoneSec'
 import fourth from './components/fourth'
 import Next from './components/Next'
 
@@ -14,9 +14,8 @@ function App() {
       <Hero/>
       <Sec/>
       <Third/>
-      <phoneSec/>
+      <PhoneSec/>
       <fourth/>
-
     </div>
   );
 }
