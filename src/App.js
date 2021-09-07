@@ -4,7 +4,6 @@ import Hero from './components/Hero'
 import Sec from './components/Sec'
 import Third from './components/Third'
 import PhoneSec from './components/PhoneSec'
-import fourth from './components/fourth'
 import Next from './components/Next'
 
 function App() {
@@ -15,7 +14,7 @@ function App() {
       <Sec/>
       <Third/>
       <PhoneSec/>
-      <fourth/>
+      <Next/>
     </div>
   );
 }
