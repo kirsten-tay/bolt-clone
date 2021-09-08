@@ -8,7 +8,7 @@ const Hero=() => {
             <div className=" flex flex-col justify-center w-screen md:w-1/2 relativw w-full items-center bg-green-600">
           <div className="m-5 text-white"> 
             <h1 class=" text-4xl ">The fast, affordable way to ride.</h1>
-            < span className="  download-app-text text-md-left">Download the Bolt app</span>
+            < span className="  download-app-text text-xs-left">Download the Bolt app</span>
            </div>
             <div className="app-badges">
                 <a href="https://go.onelink.me/app/9c5a3c35/" className="app-store-button">
