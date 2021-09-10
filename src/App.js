@@ -5,6 +5,7 @@ import Sec from './components/Sec'
 import Third from './components/Third'
 import PhoneSec from './components/PhoneSec'
 import Next from './components/Next'
+import Fourth from './components/Fourth'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Third/>
       <PhoneSec/>
       <Next/>
+      <Fourth/>
     </div>
   );
 }
