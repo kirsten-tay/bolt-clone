@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Sec from './components/Sec'
 import Third from './components/Third'
-import PhoneSec from './components/PhoneSec'
+import PhoneSec from './components/phoneSec'
 import Next from './components/Next'
 import Fourth from './components/Fourth'
 
