@@ -12,7 +12,7 @@ const Navbar=() => {
             <div className=" flex-1  ">
             <nav className="space-x-10 flex mx-10">
               <a className="text-s">Ride </a>
-              <a className="text-s">Become a rider</a>
+              <a className="text-s">Become </a>
               <a className="text-s">Fleet</a>
               <a className="text-s">Business</a>
            <a className="text-s">Scooters</a>
