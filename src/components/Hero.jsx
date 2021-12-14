@@ -18,7 +18,7 @@ const Hero=() => {
                     </div>
             </div>
             <div className="flex flex-col justify-center  w-screen md:w-1/2 relative w-full">
-                <img src={image}/>
+                <img src={image} alt={"main "}/>
 
             </div>
           </div>
