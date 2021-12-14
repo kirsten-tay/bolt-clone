@@ -13,7 +13,7 @@ const PhoneSec=() => {
              </div>
              <div className="flex-col justify-center  relative w-full">
             <div>
-            <img src={'https://bolt.eu/img/index-phone.png'}  />
+            <img src={'https://bolt.eu/img/index-phone.png'} alt={"phone"} />
             </div>
          </div>
     </div>

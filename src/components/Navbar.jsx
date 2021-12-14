@@ -1,6 +1,8 @@
 import React from 'react';
 import LogoSvg from './../Assets/LogoSvg'
 
+
+
 const Navbar=() => {
     return (
      
@@ -11,14 +13,14 @@ const Navbar=() => {
          </div>
             <div className=" flex-1  ">
             <nav className="space-x-10 flex mx-10">
-              <a className="text-s">Ride </a>
-              <a className="text-s">Become </a>
-              <a className="text-s">Fleet</a>
-              <a className="text-s">Business</a>
-           <a className="text-s">Scooters</a>
-             <a className="text-s">Drive</a>
-              <a className="text-s">Food</a>
-               <a className="text-s">Cities</a>
+              <a href="Hero" className="text-s">Ride </a>
+              <a href="Hero" className="text-s">Become </a>
+              <a href="Hero" className="text-s">Fleet</a>
+              <a href="Hero" className="text-s">Business</a>
+           <a href="Hero" className="text-s">Scooters</a>
+             <a href="Hero" className="text-s">Drive</a>
+              <a href="Hero" className="text-s">Food</a>
+               <a href="Hero" className="text-s">Cities</a>
 
 
 
